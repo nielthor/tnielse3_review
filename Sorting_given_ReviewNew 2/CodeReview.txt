@@ -1,0 +1,11 @@
+Code Review
+1.) CG 1 - missing banner across all source code.
+2.) CG 2 - public class are not using banner standards
+3.) CG 5 - Item line 4 has public attribute, SortDemoData has public attributes lines 9 & 10
+4.) CG 8a - Closed } is not on its own line throughout code
+5.) CS 3 - SortDemoData line 84 contains switch statement
+6.) CS 2 - SortAlgos is a long class that contains all sorting algorithms
+7.) CS 5 - Item class does to little
+8.) FD - Default package is used and causing
+9.) CS 6 - SortAlgo mergeSort uses i, j, m and n through out coded as name 
+10.) CG 8c - SortAlgos, mergeSort has for loops that do not use {}
