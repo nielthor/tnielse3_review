@@ -1,0 +1,1 @@
+package main;/*File:	ItemAuthor:	ASUDate:	11/5/2018Description: Assigns key to Item This is a constructor only class and will have methods added			in the future*/public final class Item {        public int key;        //constructor        public Item(int keyValue) {                 key = keyValue;        }        // further components and methods}
